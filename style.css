@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+#home {
+    width: 1600px;
+    height: 1800px;
+    background-image: url('images/bg.png');
+    background-repeat: no-repeat;
+}
