@@ -11,8 +11,10 @@ html, body {
     width: 1600px;
     height: 1800px;
     background-image: url('images/bg2.png');
-    background-color: #83C8FC;
+    background-size: cover;
+    background-color: #d9d9d9;
     background-repeat: no-repeat;
+    border: 1px #1AC400 solid;
 }
 
 #mainBG {
@@ -112,8 +114,8 @@ html, body {
   line-height: 1.2;
   text-align: left;
   position: absolute;
-  left: 862.828px;
-  top: 75.057px;
+  left: 562.828px;
+  top: 27.057px;
   z-index: 41;
 }
 
@@ -124,8 +126,11 @@ html, body {
   line-height: 1.2;
   text-align: left;
   position: absolute;
-  left: 885.797px;
-  top: 97.6px;
+  left: 588.797px;
+  top: 50.6px;
   z-index: 42;
 }
 
+a:link {
+    
+}
